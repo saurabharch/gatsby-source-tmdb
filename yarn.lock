@@ -2306,12 +2306,11 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-moviedb-promise@^1.3.2:
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/moviedb-promise/-/moviedb-promise-1.3.2.tgz#ae7dbf965fcb32e346fbf1f46d874e4db7d84225"
-  integrity sha512-391/dwm9OI6ufHUC9w5B2JN+etPIFRG07Y9CWNHAYskmtGbGNR1n352DOTXQF9BYdsOFYL3H4Kh4M1N5e1PSoQ==
+moviedb-promise@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/moviedb-promise/-/moviedb-promise-1.5.0.tgz#425883f904c0d4e2108ae7c88d5f2130ea4a0ed4"
+  integrity sha512-0xjfMAlHzf/+pdMz10Cw9Fi0qgVsjFl06pvfEdfsedFsj54yffnRevuNFUqt2NstTyPtBs7qhV2iSV4EMTA2uQ==
   dependencies:
-    limits.js "^0.1.4"
     superagent "^3.8.3"
 
 ms@2.0.0:
